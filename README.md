@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assests/readme-typing.svg" />
+  <img src="./assests/readme-typing-second.svg" />
 </p>
 
 ---

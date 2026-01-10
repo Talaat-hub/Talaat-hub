@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: Talaat-hub
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark-v2.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

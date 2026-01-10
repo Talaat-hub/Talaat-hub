@@ -23,5 +23,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Talaat-hub/Talaat-hub/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Talaat-hub/Talaat-hub/output/github-snake-dark-v2.svg?v=1" />
 </p>

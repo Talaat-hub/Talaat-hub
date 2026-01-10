@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+👋;Code.+Lift.+Repeat.+💪;Build.+Test.+Ship.+🚀" />
+  <img src="./assests/readme-typing.svg" />
 </p>
-
 ---
 
 <p align="center">

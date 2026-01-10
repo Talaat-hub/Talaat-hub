@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assests/readme-typing.svg" />
 </p>
+
 ---
 
 <p align="center">

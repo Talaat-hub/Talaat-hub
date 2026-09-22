@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A85FF&center=true&vCenter=true&width=750&lines=Oracle+ERP+Technical+Consultant;NetSuite+%7C+Fusion+%7C+Integrations;SuiteScript+%E2%80%A2+RESTlets+%E2%80%A2+SuiteQL;Automating+Oracle+ERP+Processes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A85FF&center=true&vCenter=true&width=750&lines=Oracle+ERP+Technical+Consultant;Oracle+APEX+%7C+Fusion+%7C+Integrations;Automating+Oracle+ERP+Processes" alt="Typing SVG" />
 </p>
 
 ---
@@ -125,7 +125,6 @@ I'm passionate about building tested, scalable Oracle solutions and embracing th
 ![Financial Associate](https://img.shields.io/badge/Oracle%20NetSuite-Financial%20Associate-8A85FF?style=flat-square&logo=oracle&logoColor=white)
 ![BI & Reporting](https://img.shields.io/badge/Oracle%20NetSuite-BI%20%26%20Reporting%20Associate-8A85FF?style=flat-square&logo=oracle&logoColor=white)
 ![Fusion AI Agent Studio](https://img.shields.io/badge/Oracle%20Fusion-AI%20Agent%20Studio%20Foundations-8A85FF?style=flat-square&logo=oracle&logoColor=white)
-![In Progress](https://img.shields.io/badge/In%20Progress-SuiteFoundation%20Associate-2B2D42?style=flat-square)
 
 ---
 

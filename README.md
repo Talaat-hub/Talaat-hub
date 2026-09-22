@@ -1,18 +1,32 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A85FF&center=true&vCenter=true&width=650&lines=Oracle+ERP+Technical+Consultant;Oracle+APEX+%7C+Fusion+%7C+Integrations;Automating+Business+on+Oracle+ERP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A85FF&center=true&vCenter=true&width=750&lines=Oracle+ERP+Technical+Consultant;NetSuite+%7C+Fusion+%7C+Integrations;SuiteScript+%E2%80%A2+RESTlets+%E2%80%A2+SuiteQL;Automating+Oracle+ERP+Processes" alt="Typing SVG" />
 </p>
 
 ---
 
 ### About
 
-Mid-level **Oracle ERP Technical Consultant** working across Oracle's Cloud Applications stack — NetSuite as the primary delivery platform, extending into **Oracle Fusion Cloud** through hands-on AI Agent Studio tooling and a widening view of Oracle's enterprise ERP architecture.
+Oracle Fusion Technical Consultant with 3+ years of experience across the Oracle ecosystem, delivering integrations, extensions, and automation for Oracle Fusion Cloud applications. Experienced in building and testing reliable technical solutions from design through deployment and support.
 
-Designs REST/SOAP integrations, automates business processes through SuiteScript and SuiteFlow, and builds the mid-tier layer (RESTlets, webhooks) that connects ERP data to third-party systems — the same integration and extensibility patterns that carry across Oracle's Cloud ERP suite, from NetSuite's SuiteCloud platform to Fusion's application ecosystem.
+Hands-on experience with REST and SOAP web services, Oracle Integration Cloud (OIC), Visual Builder, APEX, and reporting using OTBI and BI Publisher, backed by strong SQL, PL/SQL, and JavaScript fundamentals. An earlier NetSuite development background (SuiteScript, RESTlets) adds a disciplined, test-driven approach to every solution.
 
-Equal weight on delivery discipline: unit, white-box, and black-box test coverage for every customization, verified with Jest and validated directly against the NetSuite UI before it ships.
+Certified in Oracle Fusion AI Agent Studio, Agentic AI, OCI Foundations, OCI AI Foundations, and Oracle AI Database, and passionate about using AI agents to enhance Oracle Fusion business processes and user productivity.
 
-Computer Science & Artificial Intelligence graduate (Cairo University), currently pursuing the SuiteFoundation Associate certification while deepening Oracle Fusion Cloud exposure alongside core NetSuite development.
+Core Expertise
+
+• Oracle Fusion Cloud Technical Implementation & Support
+
+• Integrations: OIC, REST/SOAP Web Services
+
+• OTBI, BI Publisher, SQL & PL/SQL
+
+• Oracle AI Agent Studio & Agentic AI
+
+• Oracle Cloud Infrastructure (OCI) & Oracle AI Database
+
+I'm passionate about building tested, scalable Oracle solutions and embracing the emerging technologies shaping the future of ERP.
+
+#OracleFusion #OracleCloud #OracleFusionCloud #OracleERP #OracleTechnicalConsultant #OracleIntegrationCloud #OIC #OracleVisualBuilder #OracleAPEX #OTBI #BIPublisher #RESTAPI #SOAP #SQL #PLSQL #OracleAIAgentStudio #AgenticAI #AIAgents #OCI #OracleCloudInfrastructure #ERPConsultant #DigitalTransformation
 
 ---
 

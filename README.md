@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A85FF&center=true&vCenter=true&width=650&lines=Oracle+ERP+Technical+Consultant;NetSuite+%7C+Fusion+%7C+Integrations;SuiteScript+%E2%80%A2+RESTlets+%E2%80%A2+SuiteQL;Automating+Business+Processes+on+Oracle+ERP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A85FF&center=true&vCenter=true&width=650&lines=Oracle+ERP+Technical+Consultant;Oracle APEX+%7C+Fusion+%7C+Integrations;Automating+Business+on+Oracle+ERP" alt="Typing SVG" />
 </p>
 
 ---

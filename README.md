@@ -121,10 +121,14 @@ I'm passionate about building tested, scalable Oracle solutions and embracing th
 
 ### Certifications
 
+![Agentic AI](https://img.shields.io/badge/Oracle%20Fusion-Agentic%20AI-8A85FF?style=flat-square&logo=oracle&logoColor=white)
+![AI Agent Studio](https://img.shields.io/badge/Oracle%20Fusion-AI%20Agent%20Studio%20Foundations-8A85FF?style=flat-square&logo=oracle&logoColor=white)
+![OCI Foundations](https://img.shields.io/badge/Oracle%20Cloud-OCI%20Foundations-8A85FF?style=flat-square&logo=oracle&logoColor=white)
+![OCI AI Foundations](https://img.shields.io/badge/Oracle%20Cloud-OCI%20AI%20Foundations-8A85FF?style=flat-square&logo=oracle&logoColor=white)
+![Oracle AI Database](https://img.shields.io/badge/Oracle-AI%20Database-8A85FF?style=flat-square&logo=oracle&logoColor=white)
 ![AI Foundations](https://img.shields.io/badge/Oracle%20NetSuite-AI%20Foundations%20Associate-8A85FF?style=flat-square&logo=oracle&logoColor=white)
 ![Financial Associate](https://img.shields.io/badge/Oracle%20NetSuite-Financial%20Associate-8A85FF?style=flat-square&logo=oracle&logoColor=white)
 ![BI & Reporting](https://img.shields.io/badge/Oracle%20NetSuite-BI%20%26%20Reporting%20Associate-8A85FF?style=flat-square&logo=oracle&logoColor=white)
-![Fusion AI Agent Studio](https://img.shields.io/badge/Oracle%20Fusion-AI%20Agent%20Studio%20Foundations-8A85FF?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
